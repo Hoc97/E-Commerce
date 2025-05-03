@@ -38,4 +38,3 @@ export class License {
 }
 
 export const LicenseSchema = SchemaFactory.createForClass(License);
-
